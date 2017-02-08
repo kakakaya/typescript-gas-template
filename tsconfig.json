@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "rootDir": "gas",
+        "outDir": "src"
+    },
+    "typeRoots": [
+        "./node_modules_@types"
+    ]
+}
